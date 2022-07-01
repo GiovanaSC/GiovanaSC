@@ -1,6 +1,7 @@
 - @GiovanaSC
 - tenho 15 anos 
 - giovana.campagnucci@escola.pr.gov.br 
+- jk 1B 2022
 
 <!---
 GiovanaSC/GiovanaSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
